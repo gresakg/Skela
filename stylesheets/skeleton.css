@@ -26,7 +26,9 @@
     .row                                        { margin-bottom: 20px; }
 
     /* Nested Column Classes */
+    .column.alpha, .columns.alpha,
     .column:first-child, .columns:first-child   { margin-left: 0; }
+    .column.omega, .columns.omega,
     .column:last-child, .columns:last-child     { margin-right: 0; }
 
     /* Base Grid */
@@ -78,10 +80,13 @@
     @media only screen and (min-width: 768px) and (max-width: 959px) {
         .container                                  { width: 768px; }
         .container .column, .container .columns     { margin-left: 10px; margin-right: 10px;  }
+        .column.alpha, .columns.alpha,
         .column:first-child, .columns:first-child   { margin-left: 0; margin-right: 10px; }
+        .column.omega, .columns.omega,
         .column:last-child, .columns:last-child     { margin-right: 0; margin-left: 10px; }
         .column:first-child:last-child, 
-        .columns:first-child:last-child             { margin-left: 0; margin-right: 0; }
+        .columns:first-child:last-child,
+        .alpha.omega                                { margin-left: 0; margin-right: 0; }
 
         .container .one.column,
         .container .one.columns                     { width: 28px; }
