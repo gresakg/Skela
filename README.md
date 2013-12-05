@@ -21,6 +21,8 @@ Other librairies are:
 
 And more will come.
 
+There's no documentation at this point, but you can consult documentation of each respective project.
+
 Nothing except the skeleton and jquery is called by default making the base page super light. You include just what you need to.
 
 *Skela* means scaffold in bosnian construction jargon.
