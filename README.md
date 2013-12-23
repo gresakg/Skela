@@ -16,6 +16,7 @@ Other librairies are:
 * common [jquery v.1.10.2](http://jquery.com/download/)
 * my branch of [Dropdowns](https://github.com/gresakg/dropdowns)
 * my branch of [leanModal.js](https://github.com/gresakg/leanModal.js)
+* latest stable [lightbox2](https://github.com/lokesh/lightbox2)
 * my own project [Share Free](https://github.com/gresakg/ShareFree)
 * the beautifull [jQuery Cycle2](http://jquery.malsup.com/cycle2/)
 
@@ -31,5 +32,6 @@ There are no unified docs for Skela, but you can consult documentation for each 
 * Skeleton's documentation is here [www.getskeleton.com](http://www.getskeleton.com)
 * Dropdowns project has no docs yet, but you may find some info on it's [github page](https://github.com/gresakg/dropdowns).
 * LeanModal's documentation is here [http://leanmodal.finelysliced.com.au](http://leanmodal.finelysliced.com.au/)
+* Lighbox2 documentation is on the [lightbox2 page](http://lokeshdhakar.com/projects/lightbox2/)
 * Cycle2 has all the needed documentation here [http://jquery.malsup.com/cycle2/](http://jquery.malsup.com/cycle2/)
 * ShareFree has no documentation but it has a self explanatory demo page. Find out more about it at it's [github page](https://github.com/gresakg/ShareFree).
