@@ -9,7 +9,7 @@ The goal of Skela is to be responsive and cross browser compatible including IE 
 
 ### Included librairies
 
-The main part of the project is a fork of [dmur's fork of Skeleton](https://github.com/dmur/Skeleton) merged with the fluid branch so that it has both 960 and fluid grid options.
+The main part of the project is a fork of [dmur's fork of Skeleton](https://github.com/dmur/Skeleton) however, upgraded to the 18 column grid by default. The 16 column grid is still included and can by used normaly.
 
 Other librairies are:
 

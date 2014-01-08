@@ -3,8 +3,7 @@
 The skela.min.css and skela-fluid.min.css are compressed with cleancss. The following source files are included:
 
 * base.css
-* skeleton.css or skeleton-fluid.css
-* layout.css
+* skeleton.css
 * dropdowns.css
 
 The above mentioned files are included for developpement purposes, but you can use them for production too, if you wish. You can find them in the src/ subfolder.
