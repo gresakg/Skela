@@ -1,0 +1,43 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 11.1.2014, 11:13:11
+    Author     : gregor
+*/
+
+.mmega {
+	background-color: #c0c0c0;
+}
+
+.mmega ul {
+	list-style: none;
+}
+
+.mmega  ul > li {
+	float: left;
+	margin-top: 12px;
+}
+
+.mmega li > a {
+	padding: 12px 15px;
+	text-decoration: none;
+}
+
+.mmega li > a:hover, .mmega li.mmshow a {
+	background-color: #ddd;
+}
+
+.mmega li > div.container {
+	background-color: #ddd;
+	position: absolute;
+	left:0;
+	top:38px;
+	display: none;
+}
+
+.mmega li.mmshow > div {
+	display: block;
+}
